@@ -1,0 +1,15 @@
+"#drawer": {
+    openDrawerGestureMode: "OPEN_MODE_ALL",
+    closeDrawerGestureMode: "CLOSE_MODE_ALL",
+    leftDrawerWidth: "200dp",
+    rightDrawerWidth: "200dp",
+    shadowWidth:"10dp",
+    parallaxAmount: 0.2,
+    fading: 0,
+    animationMode: "ANIMATION_NONE",
+    orientationModes: [Ti.UI.PORTRAIT, Ti.UI.UPSIDE_PORTRAIT]
+}
+
+"Window": {
+    backgroundColor: 'white'
+}

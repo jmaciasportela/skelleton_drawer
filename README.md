@@ -1,4 +1,4 @@
-Titanium Application skelleton with modules:
+Titanium Application skelleton with Alloy and modules:
 
 * https://github.com/viezel/NappDrawer/
 * https://github.com/FokkeZB/nl.fokkezb.drawer

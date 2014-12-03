@@ -1,4 +1,4 @@
-# Skelleton for a Titanium Application with module:
+Titanium Application skelleton with modules:
 
 * https://github.com/viezel/NappDrawer/
 * https://github.com/FokkeZB/nl.fokkezb.drawer
